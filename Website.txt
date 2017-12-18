@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HexKo</title>
+    <link href="Style.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+	  <ul>
+		<li>HexKo</li>
+		<li>Info</li>
+		<li>What I do</li>
+        <li>My Projects</li>
+      </ul>
+    </header>	  
+  </body>
+  </html>
